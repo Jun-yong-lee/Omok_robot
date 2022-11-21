@@ -1,0 +1,3 @@
+데이터셋은 gomocup의 데이터를 활용하였으며 데이터는 gomocup results에서 얻을 수 있습니다.
+
+Data can be acquired from gomocup results, while datasets leverage data from gomocup.
