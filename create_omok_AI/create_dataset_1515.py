@@ -5,9 +5,9 @@ import os
 
 # 데이터 전처리 과정
 game_rule = 'Standard'  # 프리스타일(3x3가능 5개 이상만 돌을 연속으로 두면 승리)
-base_path = '/PycharmProjects/Omok_Robot/gomocup2021results'  # 전처리전 데이터가 저장되어 있는 경로
+base_path = 'C:/study/Omok_robot/gomocup2021results'  # 전처리전 데이터가 저장되어 있는 경로
 
-output_path = os.path.join('dataset_1515', os.path.basename(base_path))  # dataset\gomocup2021results\
+output_path = os.path.join('dataset_1515', os.path.basename(base_path))
 os.makedirs(output_path, exist_ok=True)  # 디렉토리 생성
 
 # 경로에 있는 모든 psq파일을 file_list에 저장
