@@ -1,0 +1,50 @@
+1. KATAGOMO21.S 2163
+    wins: 105+97, losses: 1+10, draws: 2+1
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 108s, time/turn: 4642ms, move/game: 23
+
+2. RAPFI21 2101
+    wins: 100+95, losses: 6+11, draws: 2+2
+    timeouts: 0, errors: 1, total games: 216
+    time/game: 51s, time/turn: 2282ms, move/game: 22
+
+3. HEWER18 1693
+    wins: 39+31, losses: 33+39, draws: 0+2
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 60s, time/turn: 2453ms, move/game: 25
+
+4. SLOWRENJU20 1654
+    wins: 29+35, losses: 42+36, draws: 1+1
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 87s, time/turn: 4035ms, move/game: 22
+
+5. DEEPFIRE19 1600
+    wins: 47+49, losses: 49+47, draws: 0+0
+    timeouts: 0, errors: 1, total games: 192
+    time/game: 78s, time/turn: 3820ms, move/game: 21
+
+6. GOFIVE 1468
+    wins: 43+41, losses: 64+66, draws: 1+1
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 85s, time/turn: 4145ms, move/game: 21
+
+7. CARBON17 1405
+    wins: 39+29, losses: 67+76, draws: 2+3
+    timeouts: 0, errors: 0, total games: 216
+    time/game: 86s, time/turn: 4264ms, move/game: 20
+
+8. GMOTOR11 1334
+    wins: 27+19, losses: 54+64, draws: 3+1
+    timeouts: 0, errors: 0, total games: 168
+    time/game: 58s, time/turn: 2740ms, move/game: 21
+
+9. PELA17 1301
+    wins: 21+15, losses: 49+55, draws: 2+2
+    timeouts: 0, errors: 0, total games: 144
+    time/game: 120s, time/turn: 4869ms, move/game: 25
+
+10. ZETOR17 1280
+    wins: 22+16, losses: 62+68, draws: 0+0
+    timeouts: 0, errors: 2, total games: 168
+    time/game: 74s, time/turn: 3650ms, move/game: 20
+
